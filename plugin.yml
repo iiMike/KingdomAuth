@@ -1,4 +1,4 @@
-name: SimpleAuth
+name: KingdomAuth
 main: SimpleAuth\SimpleAuth
 version: 1.7.2
 api: 2.0.0
